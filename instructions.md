@@ -2,4 +2,5 @@
 * chop onion
 * squeeze lime
 * add salt
-* and mix well
+* add chili
+* and mix thoroughly
